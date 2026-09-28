@@ -1,0 +1,17 @@
+ADDRESS BOOK APPLICATION
+========================
+
+Language: Python
+Storage: JSON file handling
+Main file: address_book.py
+
+Run:
+    python address_book.py
+
+The project supports:
+- Add
+- View
+- Search
+- Update
+- Delete
+- Permanent storage
